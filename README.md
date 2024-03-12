@@ -1,4 +1,4 @@
-### Course Progress Bar Plugin - Moodle
+### Moodle - Course Progress Bar Plugin
 
 This is a progress bar plugin for moodle. It will display course progress with a progress bar and percentage number to enrollers of the course
 
